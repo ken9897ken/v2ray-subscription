@@ -1,0 +1,1 @@
+vless://129ec9f4-56a9-497f-91fc-9a062faf5d72@151.101.1.124:80?encryption=none&security=none&type=xhttp&host=virus.global.ssl.fastly.net&path=%2F#%F0%9F%94%92%20VL-XHTTP-NONE%20%F0%9F%87%BA%F0%9F%87%B8%20US-151.101.1.124%3A80
